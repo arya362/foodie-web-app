@@ -11,6 +11,7 @@ export default function Navbar()
                     <a href="#menu">Menu</a>
                     <a href="#about">About</a>
                     <a href="#contact">Contact</a>
+                    
                     </ul>
                   <button className="bg-orange-500 text-white px-5 py-2 rounded-full hover:bg-orange-600 transition">
                     Order Now
